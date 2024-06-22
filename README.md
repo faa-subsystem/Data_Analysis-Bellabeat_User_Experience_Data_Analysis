@@ -1,5 +1,5 @@
 ---
-title: "Bellabeat Case Study"
+title: "Bellabeat Business Analysis"
 author: "Faury A. Abreu"
 date: "2023-07-18"
 output: 
