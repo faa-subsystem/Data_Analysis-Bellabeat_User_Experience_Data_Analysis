@@ -13,14 +13,7 @@ output:
     
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-setwd("C:/Users/FAURY/Documents/R_studio/Bellabeat_case_study/Fitabase Data 4.12.16-5.12.16")
-# Content {.tabset .tabset-fade} ![image](Bellabeat_imagenes/bellabeat-logo.png)
-```
 
-
-<img src="Bellabeat_imagenes/bellabeat-logo.png" alt="drawing" width="500"/>
 
 # <span style="color:#9e4513">Business task</span>
 
